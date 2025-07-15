@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rach and Zach//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:20250719T010000Z-rachandzach-welcome@rachandzach.com
+DTSTAMP:20250715T000000Z
+DTSTART:20250719T010000Z
+DTEND:20250719T040000Z
+SUMMARY:Rach & Zach's Welcome Party
+DESCRIPTION:Attire: Dressy Casual. Vibe: Food and drinks mixed with music and gorgeous views to kickoff the weekend.
+LOCATION:Hotel Californian, Mirador Rooftop, 36 State Street, Santa Barbara, CA 93101
+END:VEVENT
+END:VCALENDAR
