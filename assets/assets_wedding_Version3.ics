@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rach and Zach//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:20250719T223000Z-rachandzach-wedding@rachandzach.com
+DTSTAMP:20250715T000000Z
+DTSTART:20250719T223000Z
+DTEND:20250720T050000Z
+SUMMARY:Rach & Zach's Wedding
+DESCRIPTION:Shuttle Pickup: 3:30 PM sharp from Santa Barbara Visitors Center (120 State Street, Santa Barbara, CA 93101). Trust us - don't miss this shuttle, it's your only ride to the party! Attire: Santa Barbara Cocktail. Return Shuttles at 10:00 PM.
+LOCATION:Rincon Pergola (Shuttle from Santa Barbara Visitors Center)
+END:VEVENT
+END:VCALENDAR

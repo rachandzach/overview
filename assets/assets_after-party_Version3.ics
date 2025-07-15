@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rach and Zach//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:20250720T053000Z-rachandzach-afterparty@rachandzach.com
+DTSTAMP:20250715T000000Z
+DTSTART:20250720T053000Z
+DTEND:20250720T074500Z
+SUMMARY:Rach & Zach's After Party
+DESCRIPTION:Because there’s a 0% chance the celebration of THIS marriage is ending at 10 PM. Big beats and big fun. Will be a packed house filled with love from loved ones celebrating this day with the amount of enthusiasm Rach has for every day.
+LOCATION:Studio Sound Room, 28 Anacapa Street, Unit C, Santa Barbara, CA 93109
+END:VEVENT
+END:VCALENDAR
